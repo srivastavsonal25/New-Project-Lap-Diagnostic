@@ -1,4 +1,4 @@
-# New-Project-Lap-Diagnostic
+# Lapcorp-UI -AUtomation
 Code for Job search
 // === LabCorp UI Test in C# with Selenium and Reqnroll === // Directory: LabCorpJobAutomation/
  
